@@ -1,0 +1,24 @@
+ Node.js
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.log
+
+# Your config folder
+src/config/
+config/
+
+# Vercel build output
+.vercel/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
